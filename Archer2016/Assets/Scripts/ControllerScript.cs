@@ -5,8 +5,8 @@ using System.Collections;
 public class ControllerScript : MonoBehaviour {
 
     float verticalVelocity = 0;
-    public float movementSpeed = 5.0f;
-    public float jumpSpeed = 9.0f;
+    //public float movementSpeed = 5.0f;
+    //public float jumpSpeed = 9.0f;
 
     CharacterController characterController;
     private Animator anim;
@@ -84,15 +84,24 @@ public class ControllerScript : MonoBehaviour {
         }
 
         if (Input.GetKeyDown(KeyCode.C)) {
-            if (anim.GetInteger("currentAction") == 0) {
-                anim.SetInteger("currentAction", 1);
-                Camera.main.transform.position = new Vector3(Camera.main.transform.position.x, Camera.main.transform.position.y, Mathf.Lerp(Camera.main.transform.position.z, Camera.main.transform.position.z + 1.5f, 3f));
-            } else if (anim.GetInteger("currentAction") == 1) {
-                anim.SetInteger("currentAction", 0);
-                Camera.main.transform.position = new Vector3(Camera.main.transform.position.x, Camera.main.transform.position.y, Camera.main.transform.position.z - 1.5f);
+            if (onXY) {
+                if (anim.GetInteger("currentAction") == 0) {
+                    anim.SetInteger("currentAction", 1);
+                    Camera.main.transform.position = new Vector3(Camera.main.transform.position.x, Camera.main.transform.position.y, Mathf.Lerp(Camera.main.transform.position.z, Camera.main.transform.position.z + 1.5f, 3f));
+                } else if (anim.GetInteger("currentAction") == 1) {
+                    anim.SetInteger("currentAction", 0);
+                    Camera.main.transform.position = new Vector3(Camera.main.transform.position.x, Camera.main.transform.position.y, Camera.main.transform.position.z - 1.5f);
+                }
+            } else if (onXZ) {
+                if (anim.GetInteger("currentAction") == 0) {
+                    anim.SetInteger("currentAction", 1);
+                    Camera.main.transform.position = new Vector3(Mathf.Lerp(Camera.main.transform.position.x, Camera.main.transform.position.x - 1.5f, 3f), Camera.main.transform.position.y, Camera.main.transform.position.z);
+                } else if (anim.GetInteger("currentAction") == 1) {
+                    anim.SetInteger("currentAction", 0);
+                    Camera.main.transform.position = new Vector3(Camera.main.transform.position.x + 1.5f, Camera.main.transform.position.y, Camera.main.transform.position.z);
+                }
             }
         }
-
     }
 
     void OnTriggerEnter(Collider col) {
