@@ -463,11 +463,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -746,7 +746,7 @@ Prefab:
       value: streetLightTall01 (4)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &42580189
@@ -1159,11 +1159,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -1291,11 +1291,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -1711,7 +1711,7 @@ Prefab:
       value: streetLightTall01 (7)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &107556349
@@ -2360,11 +2360,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -2434,11 +2434,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -2663,11 +2663,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -2738,7 +2738,7 @@ Prefab:
       value: streetLightTall01 (1)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &169750321
@@ -2800,11 +2800,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -2874,11 +2874,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -3543,7 +3543,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
       propertyPath: m_LocalScale.x
@@ -3565,11 +3565,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -4478,11 +4478,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -5381,7 +5381,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &307324212
 Light:
   m_ObjectHideFlags: 0
@@ -5482,11 +5482,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -5557,7 +5557,7 @@ Prefab:
       value: streetLightTall01 (3)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!4 &311381817 stripped
@@ -5619,11 +5619,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -5697,11 +5697,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -5848,11 +5848,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -5918,11 +5918,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -5988,11 +5988,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -6186,11 +6186,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -6288,11 +6288,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -7126,11 +7126,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -7701,11 +7701,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -8146,11 +8146,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -8364,11 +8364,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -8500,11 +8500,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -8640,11 +8640,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -8772,11 +8772,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -8912,7 +8912,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 3.1
+  near clip plane: 3
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -10413,7 +10413,7 @@ Prefab:
       value: streetLightTall01 (2)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!4 &607191134 stripped
@@ -10731,11 +10731,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -11216,11 +11216,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -11469,7 +11469,7 @@ Prefab:
       value: streetLightTall01 (9)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &694720362
@@ -11593,11 +11593,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -12500,7 +12500,7 @@ Prefab:
       value: streetLightTall01 (5)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &737275643
@@ -12777,11 +12777,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -13305,11 +13305,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -13939,11 +13939,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -14194,11 +14194,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -14250,34 +14250,6 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
       propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 100002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_TagString
-      value: Floor
-      objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 100002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
-      propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -15141,11 +15113,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -15478,11 +15450,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -15945,7 +15917,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 939035683}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 106.80354, y: 144.9771, z: -39.003193}
+  m_LocalPosition: {x: 106.80354, y: 145, z: -39.003193}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 782356921}
@@ -17117,11 +17089,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -18106,11 +18078,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -18218,11 +18190,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -18293,7 +18265,7 @@ Prefab:
       value: streetLightTall01 (11)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1069542757
@@ -19099,11 +19071,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -19377,11 +19349,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -19555,7 +19527,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
       propertyPath: m_LocalScale.x
@@ -19577,11 +19549,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -19709,11 +19681,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -19783,11 +19755,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -20287,11 +20259,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -21522,11 +21494,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -22391,7 +22363,7 @@ Prefab:
       value: streetLightTall01 (10)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!4 &1309579440 stripped
@@ -22616,11 +22588,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -23020,11 +22992,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -23130,11 +23102,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -23571,11 +23543,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -23845,11 +23817,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -25199,11 +25171,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -25373,20 +25345,7 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 5f10195a97608f84abc34031267a5955, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 5f10195a97608f84abc34031267a5955, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 5f10195a97608f84abc34031267a5955, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1484880555
@@ -28123,11 +28082,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -28481,11 +28440,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -28588,7 +28547,7 @@ Prefab:
       value: streetLightTall01 (6)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!4 &1658260766 stripped
@@ -29149,11 +29108,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -29332,11 +29291,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -29414,11 +29373,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -30555,11 +30514,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -30713,7 +30672,7 @@ Prefab:
       value: streetLightTall01 (8)
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 6400000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 5f10195a97608f84abc34031267a5955, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1780974007
@@ -32475,11 +32434,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -33033,8 +32992,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41524b77c942f6c4689ef0cf00e1984d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 5
-  jumpSpeed: 9
   archer: {fileID: 140097897}
   head: {fileID: 752325335}
   lookPos: {x: 0, y: 0, z: 0}
@@ -33734,11 +33691,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -34144,11 +34101,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -34245,11 +34202,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -36533,11 +36490,11 @@ Prefab:
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 6400002, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6400000, guid: 5375d598228e3e94bb2fb7fe9486dd8a, type: 2}
+    - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
